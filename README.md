@@ -1,6 +1,6 @@
 ## Source Plugin
 1) This is a fork of [TanglingTreats/tmux-everforest](https://github.com/TanglingTreats/tmux-everforest)
-2) I created this fork to customize the theme further and take no credit for tthe base theme's work
+2) I created this fork to customize the theme further and take no credit for the base theme's work
 ### Tmux Plugin Manager
 This would require the [plugin manager](https://github.com/tmux-plugins/tpm) to be installed and configured within `.tmux.conf` .
 ```bash
